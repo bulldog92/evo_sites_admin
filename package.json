@@ -1,0 +1,22 @@
+{
+  "name": "sites",
+  "version": "1.0.0",
+  "description": "sites admin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bulldog92/evo_sites_admin.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bulldog92/evo_sites_admin/issues"
+  },
+  "homepage": "https://github.com/bulldog92/evo_sites_admin#readme",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
